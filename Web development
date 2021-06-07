@@ -1,6 +1,7 @@
 <!DOCTYPE html>
  </html>
-   <address><i>HTML Class<br>
+  <head> 
+<address><i>HTML Class<br>
     University of Liberia <br>
     Capital bye Pass<br>
     Monrovia-Liberia</i><hr></address>
@@ -32,3 +33,4 @@ can help you to understand the news, make financial decisions, shape
 <p><u>you might be wondering<u/> about how much economists earn or how to apply to
  graduate school in economics. We have resources on everything from
  learning more about economics to preparing for a career in economics.<p/>
+</head>
