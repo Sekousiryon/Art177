@@ -29,7 +29,7 @@ models or empirical data, they evaluate programs, study human behavior,
 <p>Economics affects everyone’s lives. Learning about economic concepts 
 can help you to understand the news, make financial decisions, shape
  public policy, and see the world in a new way.<p/>
-<h5><strike>What should I care about economic?<strike/><h/>
+<h5><u>What should I care about economic?</u><h/>
 <p>Economics affects everyone’s lives. Learning about economic concepts 
 can help you to understand the news, make financial decisions, shape
  public policy, and see the world in a new way<p/>
